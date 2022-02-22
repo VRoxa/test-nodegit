@@ -1,1 +1,32 @@
-[{"title":"Test article","oneliner":"Integration tool testing article","url":"article","tags":["test","integration"],"date":"2022-02-21T11:59:07.404Z"},{"title":"Test article 2","oneliner":"Integration tool testing article","url":"article-2","tags":["test","integration"],"date":"2022-02-21T14:36:50.406Z"}]
+[
+  {
+    "title": "Test article",
+    "oneliner": "Integration tool testing article",
+    "url": "article",
+    "tags": [
+      "test",
+      "integration"
+    ],
+    "date": "2022-02-21T11:59:07.404Z"
+  },
+  {
+    "title": "Test article 2",
+    "oneliner": "Integration tool testing article",
+    "url": "article-2",
+    "tags": [
+      "test",
+      "integration"
+    ],
+    "date": "2022-02-21T14:36:50.406Z"
+  },
+  {
+    "title": "Test article 3",
+    "oneliner": "Integration tool testing article",
+    "url": "article-3",
+    "tags": [
+      "test",
+      "integration"
+    ],
+    "filePath": "C:\\code\\Owned\\thepeachspeech-tool\\mock\\article.md"
+  }
+]
