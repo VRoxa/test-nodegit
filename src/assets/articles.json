@@ -27,6 +27,17 @@
       "test",
       "integration"
     ],
-    "filePath": "C:\\code\\Owned\\thepeachspeech-tool\\mock\\article.md"
+    "filePath": "C:\\code\\Owned\\thepeachspeech-tool\\mock\\article.md",
+    "date": null
+  },
+  {
+    "filePath": "C:\\code\\Owned\\thepeachspeech-tool\\mock\\article.md",
+    "title": "Article 4",
+    "oneliner": "dfdsfdf",
+    "url": "article-4",
+    "tags": [
+      "dl",
+      "dl"
+    ]
   }
 ]
