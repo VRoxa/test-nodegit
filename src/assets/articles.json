@@ -1,13 +1,14 @@
 [
   {
-    "title": "Test article 2",
+    "title": "TEst 3 updated",
     "oneliner": "Integration tool testing article",
     "url": "article-2",
     "tags": [
       "test",
       "integration"
     ],
-    "date": "2022-02-21T14:36:50.406Z"
+    "date": "2022-02-21T14:36:50.406Z",
+    "filePath": "C:\\code\\Owned\\thepeachspeech-tool\\mock\\article.md"
   },
   {
     "filePath": "C:\\code\\Owned\\thepeachspeech-tool\\mock\\article.md",
